@@ -1,4 +1,20 @@
 {
-  "atualizado": "",
-  "apps": []
+  "atualizado": "2026-11-02T20:24:41.403154",
+  "apps": [
+    {
+      "id": "loja",
+      "pacote": "br.com.newerp.loja",
+      "nome": "Loja da Família",
+      "descricao": "Instala e atualiza os apps da casa.",
+      "icone": "loja",
+      "cor": "#7B61FF",
+      "versao": "1.0.0",
+      "versaoCodigo": 1,
+      "apk": "https://github.com/douglas-camposjc/loja-familia/releases/download/loja-1.0.0/loja-1.0.0.apk",
+      "tamanho": 47282326,
+      "sha256": "4f7dd569411ff3fd3af78171b10d4d9ca9d2583e1c8c5090c06d965d38e15081",
+      "novidades": "Primeira versão da Loja da Família.",
+      "publicado": "2026-11-02T20:24:41.401127"
+    }
+  ]
 }
