@@ -1,6 +1,21 @@
 {
-  "atualizado": "2026-11-02T20:24:41.403154",
+  "atualizado": "2026-11-02T20:25:56.311490",
   "apps": [
+    {
+      "id": "controle_tv",
+      "pacote": "br.com.newerp.controle_tv",
+      "nome": "Controle da TV",
+      "descricao": "Controle remoto da TV da sala pela rede de casa: liga, desliga, volume, HDMI, YouTube, Netflix e busca por voz.",
+      "icone": "tv",
+      "cor": "#4C9EFF",
+      "versao": "1.1.0",
+      "versaoCodigo": 2,
+      "apk": "https://github.com/douglas-camposjc/loja-familia/releases/download/controle_tv-1.1.0/controle_tv-1.1.0.apk",
+      "tamanho": 55494114,
+      "sha256": "b35453583996f46f182433e0ce147b57583dd2a033a5b7172cdb6f6915fc90d9",
+      "novidades": "Busca no YouTube por voz e por texto. Abre por cima da tela de bloqueio. Corrigido: um celular derrubava o outro.",
+      "publicado": "2026-11-02T20:25:56.308459"
+    },
     {
       "id": "loja",
       "pacote": "br.com.newerp.loja",
