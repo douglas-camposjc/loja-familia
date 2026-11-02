@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-02T20:26:53.426747",
+  "atualizado": "2026-11-02T20:35:42.235282",
   "apps": [
     {
       "id": "controle_tv",
@@ -38,13 +38,13 @@
       "descricao": "Instala e atualiza os apps da casa.",
       "icone": "loja",
       "cor": "#7B61FF",
-      "versao": "1.0.0",
-      "versaoCodigo": 1,
-      "apk": "https://github.com/douglas-camposjc/loja-familia/releases/download/loja-1.0.0/loja-1.0.0.apk",
-      "tamanho": 47282326,
-      "sha256": "4f7dd569411ff3fd3af78171b10d4d9ca9d2583e1c8c5090c06d965d38e15081",
-      "novidades": "Primeira versão da Loja da Família.",
-      "publicado": "2026-11-02T20:24:41.401127"
+      "versao": "1.0.1",
+      "versaoCodigo": 2,
+      "apk": "https://github.com/douglas-camposjc/loja-familia/releases/download/loja-1.0.1/loja-1.0.1.apk",
+      "tamanho": 47282442,
+      "sha256": "1cbf88f539b6ef937bbc0c8f08abe060f3c5854d8a450e22edc7dcd789c1e745",
+      "novidades": "Avisa e ajuda quando um app antigo ficou instalado em outro usuário do celular (ex.: Convidado).",
+      "publicado": "2026-11-02T20:35:42.232305"
     }
   ]
 }
