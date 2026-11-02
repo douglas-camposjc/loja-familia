@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-02T20:25:56.311490",
+  "atualizado": "2026-11-02T20:26:53.426747",
   "apps": [
     {
       "id": "controle_tv",
@@ -15,6 +15,21 @@
       "sha256": "b35453583996f46f182433e0ce147b57583dd2a033a5b7172cdb6f6915fc90d9",
       "novidades": "Busca no YouTube por voz e por texto. Abre por cima da tela de bloqueio. Corrigido: um celular derrubava o outro.",
       "publicado": "2026-11-02T20:25:56.308459"
+    },
+    {
+      "id": "ferramentas_tecnico",
+      "pacote": "br.com.newerp.ferramentas_tecnico",
+      "nome": "Ferramentas do Técnico",
+      "descricao": "Prompt de rede no celular: ipconfig, ping, tracert, portas e varredura da rede.",
+      "icone": "rede",
+      "cor": "#4FD1C5",
+      "versao": "0.2.0",
+      "versaoCodigo": 2,
+      "apk": "https://github.com/douglas-camposjc/loja-familia/releases/download/ferramentas_tecnico-0.2.0/ferramentas_tecnico-0.2.0.apk",
+      "tamanho": 51608766,
+      "sha256": "584c2c5732505002041d59b827616836e0eb6fea9e467af7663987bb04d1ab62",
+      "novidades": "Primeira versão na Loja.",
+      "publicado": "2026-11-02T20:26:53.423750"
     },
     {
       "id": "loja",
