@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-02T20:55:29.065731",
+  "atualizado": "2026-11-05T20:36:00.541066",
   "apps": [
     {
       "id": "controle_tv",
@@ -8,13 +8,13 @@
       "descricao": "Controle remoto da TV da sala pela rede de casa: liga, desliga, volume, HDMI, YouTube, Netflix e busca por voz.",
       "icone": "tv",
       "cor": "#4C9EFF",
-      "versao": "1.1.0",
-      "versaoCodigo": 2,
-      "apk": "https://github.com/douglas-camposjc/loja-familia/releases/download/controle_tv-1.1.0/controle_tv-1.1.0.apk",
-      "tamanho": 55494114,
-      "sha256": "b35453583996f46f182433e0ce147b57583dd2a033a5b7172cdb6f6915fc90d9",
-      "novidades": "Busca no YouTube por voz e por texto. Abre por cima da tela de bloqueio. Corrigido: um celular derrubava o outro.",
-      "publicado": "2026-11-02T20:25:56.308459"
+      "versao": "1.1.1",
+      "versaoCodigo": 3,
+      "apk": "https://github.com/douglas-camposjc/loja-familia/releases/download/controle_tv-1.1.1/controle_tv-1.1.1.apk",
+      "tamanho": 55494230,
+      "sha256": "0ca6451f1e5a81aee03013b297a3f7f037fe8a2740f6386f7fd4557d54ce8ea8",
+      "novidades": "Corrigido de vez: um celular derrubava o outro. Agora cada celular tem uma chave só dele. Depois de atualizar, pareie de novo uma vez (o app avisa).",
+      "publicado": "2026-11-05T20:36:00.537861"
     },
     {
       "id": "ferramentas_tecnico",
